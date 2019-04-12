@@ -7,7 +7,7 @@ import org.springframework.context.annotation.EnableAspectJAutoProxy;
 @EnableEurekaServer
 @SpringBootApplication
 public class EurekaServiceApplication {
-
+       //main
 	public static void main(String[] args) {
 		SpringApplication.run(EurekaServiceApplication.class, args);
 	}
